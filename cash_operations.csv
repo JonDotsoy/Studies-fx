@@ -25,3 +25,32 @@ ID,Type,Time,Amount,Comment
 20810369,Close trade,2015.01.09 16:37:33,21 505.75,Profit of position #26074462
 20810371,Commission,2015.01.09 16:37:33,-9 835.68,Commission of position #26074462
 20832738,Close trade,2015.01.12 00:02:53,-65 653.16,Profit of position #26102641
+20836561,Close trade,2015.01.12 01:31:43,-179 562.63,Profit of position #26103392
+20844293,Close trade,2015.01.12 04:12:37,50 139.12,Profit of position #26102653
+20844296,Close trade,2015.01.12 04:12:37,42 028.38,Profit of position #26103172
+20844299,Close trade,2015.01.12 04:12:37,42 028.38,Profit of position #26103168
+20845733,Close trade,2015.01.12 04:41:01,-57 784.62,Profit of position #26104767
+20845935,Close trade,2015.01.12 04:41:56,-26 925.17,Profit of position #26104778
+20868756,Close trade,2015.01.12 08:25:46,-290 410.75,Profit of position #26142075
+20869627,Close trade,2015.01.12 08:37:42,-72 337.86,Profit of position #26144703
+20877084,Close trade,2015.01.12 09:41:48,-420 795.53,Profit of position #26146204
+20885022,Close trade,2015.01.12 10:16:14,-77 035.44,Profit of position #26162963
+20888823,Close trade,2015.01.12 10:44:13,-59 214.84,Profit of position #26164768
+20888825,Commission,2015.01.12 10:44:13,-22 267.85,Commission of position #26164768
+20890153,Close trade,2015.01.12 10:56:11,-20 611.34,Profit of position #26168299
+20890155,Commission,2015.01.12 10:56:11,-22 243.89,Commission of position #26168299
+20897163,Close trade,2015.01.12 11:46:49,-117 537.86,Profit of position #26079835
+20897164,Swap,2015.01.12 11:46:49,-5 463.99,Swap of position #26079835
+20897165,Commission,2015.01.12 11:46:49,-39 471.72,Commission of position #26079835
+20898533,Close trade,2015.01.12 11:50:35,-25 778.85,Profit of position #26170171
+20898535,Commission,2015.01.12 11:50:35,-22 254.22,Commission of position #26170171
+20898536,Close trade,2015.01.12 11:50:35,-20 623.08,Profit of position #26179491
+20898538,Commission,2015.01.12 11:50:35,-22 255.32,Commission of position #26179491
+20898986,Close trade,2015.01.12 11:52:22,868.35,Profit of position #26076039
+20898987,Swap,2015.01.12 11:52:22,-235.32,Swap of position #26076039
+20898988,Commission,2015.01.12 11:52:22,-9 846.88,Commission of position #26076039
+20899132,Close trade,2015.01.12 11:54:40,1 533.59,Profit of position #26076843
+20899133,Swap,2015.01.12 11:54:40,-450.01,Swap of position #26076843
+20899134,Commission,2015.01.12 11:54:40,-9 847.28,Commission of position #26076843
+20899568,Close trade,2015.01.12 11:57:29,-124 001.66,Profit of position #26179735
+20899570,Commission,2015.01.12 11:57:29,-38 116.85,Commission of position #26179735
