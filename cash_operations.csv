@@ -55,3 +55,10 @@ ID,Type,Time,Amount,Comment
 20899568,Close trade,2015.01.12 11:57:29,-124 001.66,Profit of position #26179735
 20899570,Commission,2015.01.12 11:57:29,-38 116.85,Commission of position #26179735
 20948121,Close trade,2015.01.12 20:55:57,-70 440.62,Profit of position #26231790
+20948990,Close trade,2015.01.12 21:08:35,-21 492.33,Profit of position #26235299
+20951414,Close trade,2015.01.12 21:49:19,-223 005.67,Profit of position #26236205
+20980340,Close trade,2015.01.13 05:15:04,-274 406.59,Profit of position #26193931
+20980341,Swap,2015.01.13 05:15:04,-1 672.95,Swap of position #26193931
+20980342,Commission,2015.01.13 05:15:04,-38 187.85,Commission of position #26193931
+21023719,Close trade,2015.01.13 11:33:53,-318 954.01,Profit of position #26319705
+21023722,Close trade,2015.01.13 11:33:53,340 162.06,Profit of position #26250076
